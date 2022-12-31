@@ -1,0 +1,27 @@
+Change Physical Footprint: Designator=C1 Old Footprint=CAP 0805_2012 RF New Footprint=CAP 0805_2012 RF
+Change Physical Footprint: Designator=C2 Old Footprint=CAP 0805_2012 RF New Footprint=CAP 0805_2012 RF
+Change Physical Footprint: Designator=C3 Old Footprint=CAP 0805_2012 RF New Footprint=CAP 0805_2012 RF
+Change Physical Footprint: Designator=C4 Old Footprint=CAP 0805_2012 RF New Footprint=CAP 0805_2012 RF
+Change Physical Footprint: Designator=C5 Old Footprint=CAP 0805_2012 RF New Footprint=CAP 0805_2012 RF
+Change Physical Footprint: Designator=C6 Old Footprint=CAP 0805_2012 RF New Footprint=CAP 0805_2012 RF
+Change Physical Footprint: Designator=C7 Old Footprint=RES 0805_2012 New Footprint=RES 0805_2012
+Change Physical Footprint: Designator=P1 Old Footprint=51025-02-0100-01 New Footprint=51025-02-0100-01
+Change Physical Footprint: Designator=P2 Old Footprint=51125-04-0200-01 New Footprint=51125-04-0200-01
+Change Physical Footprint: Designator=P3 Old Footprint=51025-02-0100-01 New Footprint=51025-02-0100-01
+Change Physical Footprint: Designator=R1 Old Footprint=RES 1206_3216 RF New Footprint=RES 1206_3216 RF
+Change Physical Footprint: Designator=R2 Old Footprint=RES 1206_3216 RF New Footprint=RES 1206_3216 RF
+Change Physical Footprint: Designator=R3 Old Footprint=RES 1206_3216 RF New Footprint=RES 1206_3216 RF
+Change Physical Footprint: Designator=R4 Old Footprint=RES 1206_3216 RF New Footprint=RES 1206_3216 RF
+Change Physical Footprint: Designator=R5 Old Footprint=RES 1206_3216 RF New Footprint=RES 1206_3216 RF
+Change Physical Footprint: Designator=R6 Old Footprint=RES 1206_3216 RF New Footprint=RES 1206_3216 RF
+Change Physical Footprint: Designator=R7 Old Footprint=RES 1206_3216 RF New Footprint=RES 1206_3216 RF
+Change Physical Footprint: Designator=R8 Old Footprint=RES 1206_3216 RF New Footprint=RES 1206_3216 RF
+Change Physical Footprint: Designator=R9 Old Footprint=RES 1206_3216 RF New Footprint=RES 1206_3216 RF
+Change Physical Footprint: Designator=R10 Old Footprint=RES 1206_3216 RF New Footprint=RES 1206_3216 RF
+Change Physical Footprint: Designator=R11 Old Footprint=RES 1206_3216 RF New Footprint=RES 1206_3216 RF
+Change Physical Footprint: Designator=R12 Old Footprint=RES 1206_3216 RF New Footprint=RES 1206_3216 RF
+Change Physical Footprint: Designator=U1 Old Footprint=SOT95P290X145-5N New Footprint=SOT95P290X145-5N
+Change Physical Footprint: Designator=U2 Old Footprint=SOT95P290X145-5N New Footprint=SOT95P290X145-5N
+Change Physical Footprint: Designator=U3 Old Footprint=SOT95P290X145-5N New Footprint=SOT95P290X145-5N
+Change Physical Footprint: Designator=U4 Old Footprint=SOT95P290X145-5N New Footprint=SOT95P290X145-5N
+Change Physical Footprint: Designator=U5 Old Footprint=SOT95P290X145-5N New Footprint=SOT95P290X145-5N

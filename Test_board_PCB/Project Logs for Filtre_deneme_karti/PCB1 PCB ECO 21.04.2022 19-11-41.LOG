@@ -1,0 +1,14 @@
+Change Component Footprint: Designator=C1 Old Footprint=CAP 0805_2012 New Footprint=CAP 0805_2012 RF
+Change Component Footprint: Designator=C2 Old Footprint=CAP 0805_2012 New Footprint=CAP 0805_2012 RF
+Change Component Footprint: Designator=C3 Old Footprint=CAP 0805_2012 New Footprint=CAP 0805_2012 RF
+Change Component Footprint: Designator=C4 Old Footprint=CAP 0805_2012 New Footprint=CAP 0805_2012 RF
+Change Component Footprint: Designator=C5 Old Footprint=CAP 0805_2012 New Footprint=CAP 0805_2012 RF
+Change Component Footprint: Designator=C6 Old Footprint=CAP 0805_2012 New Footprint=CAP 0805_2012 RF
+Change Component Footprint: Designator=C7 Old Footprint=CAP 0805_2012 New Footprint=CAP 0805_2012 RF
+Change component parameters: Designator = "C1" ("C1"); Footprint = "CAP 0805_2012"; UniqueID = "\TFTITAZU" ("\TFTITAZU")
+Change component parameters: Designator = "C2" ("C2"); Footprint = "CAP 0805_2012"; UniqueID = "\DNERQIXD" ("\DNERQIXD")
+Change component parameters: Designator = "C3" ("C3"); Footprint = "CAP 0805_2012"; UniqueID = "\WQGHMHZV" ("\WQGHMHZV")
+Change component parameters: Designator = "C4" ("C4"); Footprint = "CAP 0805_2012"; UniqueID = "\TKCOYPWS" ("\TKCOYPWS")
+Change component parameters: Designator = "C5" ("C5"); Footprint = "CAP 0805_2012"; UniqueID = "\NGGQIOAD" ("\NGGQIOAD")
+Change component parameters: Designator = "C6" ("C6"); Footprint = "CAP 0805_2012"; UniqueID = "\WHIRZJQR" ("\WHIRZJQR")
+Change component parameters: Designator = "C7" ("C7"); Footprint = "CAP 0805_2012"; UniqueID = "\FTLZRVYE" ("\FTLZRVYE")

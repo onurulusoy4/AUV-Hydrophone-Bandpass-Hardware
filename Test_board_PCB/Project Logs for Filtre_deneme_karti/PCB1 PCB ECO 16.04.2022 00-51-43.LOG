@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=AGND Pin=P2-3
+Removed Pin From Net: NetName=GND Pin=P2-4
+Added Pin To Net: NetName=GND Pin=P2-3
+Added Pin To Net: NetName=AGND Pin=P2-4
+Added Member To Class: ClassName=Input-Output Member=Component P3 WIRE-TO BOARD WAFER, 2.5MM, 2 CO
+Added Room: Name=6 Pole Butterworth Bandpass Filter
+Added Room: Name=ADC Buffering
+Added Room: Name=Input-Output

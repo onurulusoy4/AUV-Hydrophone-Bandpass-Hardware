@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=VAMPIN Pin=P1-1
+Removed Pin From Net: NetName=VFIN Pin=P1-2
+Removed Pin From Net: NetName=VFOUT Pin=P1-3
+Removed Member From Class: ClassName=Input-Output Member=P1
+Added Pin To Net: NetName=GND Pin=P3-2
